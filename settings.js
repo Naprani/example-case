@@ -16,7 +16,7 @@ global . nama  paket      =       namabot
 global . pengarang  =  namapemilik
 global . myweb  =  "https://s.id/zeeoneofc"
 global . footer_text  =  "© "  +  namabot
-global.pp_bot = fs.readFileSync("./image/foto.jpg")
+global . pp_bot        =        fs . bacaFileSync ( "./image/IMG-20230530-WA0004.jpg" )
 
 global . pemilik        = [ '6287877704607' ]
 global . namasesi  =  'sesi'
