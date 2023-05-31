@@ -12,7 +12,7 @@ global.APIKeys = {
 
 global . namabot        =       "RanBot"
 global . namapemilik    =     "Ranran"
-global . nama  paket      =       namabot
+global . nama paket           =            namabot
 global . pengarang  =  namapemilik
 global . myweb  =  "https://s.id/zeeoneofc"
 global . footer_text  =  "© "  +  namabot
